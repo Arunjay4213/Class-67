@@ -1,1 +1,1 @@
-characters:Tortoise, hare
+characters:Tortoise, hare, rhino
