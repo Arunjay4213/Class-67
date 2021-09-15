@@ -1,0 +1,1 @@
+The tortoise and hare had a race, the hare got overconfident and slept during the race. The tortoise went slow and steady and finished the race before the hare. 
